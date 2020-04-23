@@ -3,7 +3,7 @@
 ### Idea: To show new confirmed cases throughout the world over time, to bring out the fact that coronavirus is seasonal, it may seem it is over but it may come back.
 
 <video>
-  <source src="https://github.com/BikashPandey17/covid19/blob/master/infer_images/img1.jpeg?raw=true"
+  <source src="https://github.com/BikashPandey17/covid19/blob/master/covidworld1.webm?raw=true"
             type="video/webm">
 </video>
 
